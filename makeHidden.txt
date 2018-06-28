@@ -1,0 +1,5 @@
+making hidden with attrib +h
+this is only for git bash
+mac uses:
+chflags hidden filename
+chflags nohidden to unhide
